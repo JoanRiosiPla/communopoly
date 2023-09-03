@@ -2,7 +2,7 @@
 Monopoly but Communist! Printable! 
 Based on the NRB modification.
 
-Keep in mind we qre still testing this, found errors:
+Keep in mind we are still testing this, found errors:
 - Train, water and chernovile cards missing
 - Discrepancy in the rules.
 - Stoy text is wrong
