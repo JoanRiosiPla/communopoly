@@ -1,2 +1,2 @@
-# communopoly
+# Communopoly
 Monopoly but Communist! Printable!
