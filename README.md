@@ -3,9 +3,10 @@ Monopoly but Communist! Printable!
 Based on the NRB modification.
 
 Keep in mind we are still testing this, found errors:
-- Train, water and chernovile cards missing
+- Cards are missing "Rent".
+- Train, water and chernovile cards missing.
 - Discrepancy in the rules.
-- Stoy text is wrong
+- Stoy text is wrong.
 
 # Credits
 Made by Joan Rios and by Laia Rios
