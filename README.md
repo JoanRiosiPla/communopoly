@@ -1,5 +1,6 @@
 # Communopoly
-Monopoly but Communist! Printable!
+Monopoly but Communist! Printable! 
+Based on the NRB modification.
 
 # Credits
 Made by Joan Rios and by Laia Rios
