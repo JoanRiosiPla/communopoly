@@ -3,8 +3,6 @@ Monopoly but Communist! Printable!
 Based on the NRB modification.
 
 Keep in mind we are still testing this, found errors:
-- Cards are missing "Rent". While we fix it, check [this](https://i.pinimg.com/736x/69/ae/e6/69aee6d62dbfc1478b62a583d82bd363--monopoly-party-monopoly-crafts.jpg).
-- Train, water and chernovile cards missing.
 - Discrepancy in the rules.
 - Stoy text is wrong. (Should say "if you land")
 
