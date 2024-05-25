@@ -1,6 +1,6 @@
 # Communopoly
 Monopoly but Communist! Printable! 
-Based on the NRB modification.
+Based on the NRB modification (up to the 2nd episode).
 
 Keep in mind we are still testing this, found errors:
 - Discrepancy in the rules.
